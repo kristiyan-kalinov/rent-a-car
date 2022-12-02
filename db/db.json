@@ -1,0 +1,134 @@
+{
+  "users": [
+    {
+      "id": "f529a9c7-b5bb-4d3c-a451-825c03b12013",
+      "role": "user",
+      "name": "Kelly Johns",
+      "email": "kellyjohns@caxt.com",
+      "phone": "+1 (977) 521-3716",
+      "password": "123"
+    },
+    {
+      "id": "c5a4e854-9689-4eb0-979a-12212d838d2b",
+      "role": "user",
+      "name": "Rosemarie Schneider",
+      "email": "rosemarieschneider@caxt.com",
+      "password": "123",
+      "phone": "+1 (942) 477-2273"
+    },
+    {
+      "id": "70ad681a-75b0-4f05-8f80-cd5f36de57df",
+      "role": "user",
+      "name": "Silva Patton",
+      "email": "silvapatton@caxt.com",
+      "password": "123",
+      "phone": "+1 (941) 545-2163"
+    },
+    {
+      "id": "7cb88485-534b-4f61-a8e3-07a7fa3bd47f",
+      "role": "user",
+      "name": "Bertha Gray",
+      "email": "berthagray@caxt.com",
+      "password": "123",
+      "phone": "+1 (861) 443-2680"
+    },
+    {
+      "id": "621a4870-695e-4601-b845-590fca7be53c",
+      "role": "user",
+      "name": "Alfreda Miranda",
+      "email": "alfredamiranda@caxt.com",
+      "password": "123",
+      "phone": "+1 (930) 411-3183"
+    },
+    {
+      "role": "admin",
+      "name": "fdsfd",
+      "email": "email@test.com",
+      "phone": "fdfads",
+      "password": "123",
+      "id": "bsKCtov"
+    },
+    {
+      "role": "user",
+      "name": "Ivan",
+      "email": "test123@email.com",
+      "phone": "123",
+      "password": "123",
+      "id": "mFMT7Hv"
+    },
+    {
+      "role": "admin",
+      "name": "admin",
+      "email": "admin@asd.com",
+      "phone": "123",
+      "password": "123",
+      "id": "Q2SpCCD"
+    },
+    {
+      "name": "test",
+      "email": "test@email.com",
+      "phone": "123",
+      "password": "123",
+      "role": "admin",
+      "id": "z0G98Yq"
+    }
+  ],
+  "vehicles": [
+    {
+      "vehicleType": "SUV",
+      "brand": "BMW",
+      "model": "X5",
+      "constructionYear": "2014",
+      "fuelType": "diesel",
+      "numberOfSeats": "5",
+      "picture": "https://picsum.photos/200/300?random=0.1311870061228202",
+      "pricePerDay": "99.99",
+      "count": "2",
+      "id": "mJoowjX"
+    },
+    {
+      "vehicleType": "luxury",
+      "brand": "Audi",
+      "model": "A8",
+      "constructionYear": "2019",
+      "fuelType": "petrol",
+      "numberOfSeats": "5",
+      "picture": "https://picsum.photos/200/300?random=0.12145582698756341",
+      "pricePerDay": "199.99",
+      "count": "1",
+      "id": "nsMb1H9"
+    },
+    {
+      "vehicleType": "Luxury",
+      "brand": "Tesla",
+      "model": "S",
+      "constructionYear": "2022",
+      "fuelType": "Electric",
+      "numberOfSeats": "5",
+      "picture": "https://picsum.photos/200/300?random=0.1433417460718751",
+      "pricePerDay": "199.99",
+      "count": "1",
+      "id": "QNrNaye"
+    },
+    {
+      "vehicleType": "Luxury",
+      "brand": "Tesla",
+      "model": "X",
+      "constructionYear": "2020",
+      "fuelType": "Electric",
+      "numberOfSeats": "5",
+      "picture": "https://picsum.photos/200/300?random=0.2193019588859575",
+      "pricePerDay": "149.99",
+      "count": "5",
+      "id": "PkqLNId"
+    }
+  ],
+  "rental-events": [
+    {
+      "startDate": "2022-12-14T19:12",
+      "endDate": "2022-12-27T19:12",
+      "userId": "mFMT7Hv",
+      "id": 1
+    }
+  ]
+}
