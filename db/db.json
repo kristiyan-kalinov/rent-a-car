@@ -125,10 +125,18 @@
   ],
   "rental-events": [
     {
-      "startDate": "2022-12-14T19:12",
-      "endDate": "2022-12-27T19:12",
+      "vehicleId": "Audi A8 2019",
+      "startDate": "2022-12-08T11:52",
+      "endDate": "2022-12-25T11:52",
       "userId": "mFMT7Hv",
       "id": 1
+    },
+    {
+      "vehicleId": "Tesla S 2022",
+      "startDate": "2022-12-07T11:53",
+      "endDate": "2022-12-20T11:53",
+      "userId": "mFMT7Hv",
+      "id": 2
     }
   ]
 }

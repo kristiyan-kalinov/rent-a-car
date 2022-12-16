@@ -79,7 +79,7 @@ export function RentalEventForm() {
                 <Form.Group className="mb-3 reftf" controlId="formBasicEmail">
                     <Form.Label>Vehicle</Form.Label>
                     <Form.Select placeholder="Select vehicle" name="vehicleId" value={rentalEvent.vehicleId} onChange={onInputChange}> 
-                        { vehicles.map(vehicle => <option key={vehicle.id} value={rentalEvent.vehicleId}>{vehicle.brand + " " + vehicle.model + " " + vehicle.constructionYear}</option>) }
+                        { vehicles.map(vehicle => <option key={vehicle.id} value={vehicle.brand + " " + vehicle.model + " " + vehicle.constructionYear}>{vehicle.brand + " " + vehicle.model + " " + vehicle.constructionYear}</option>) }
                     </Form.Select>
                 </Form.Group>
                 <Form.Group className="mb-3" controlId="formBasicEmail">
